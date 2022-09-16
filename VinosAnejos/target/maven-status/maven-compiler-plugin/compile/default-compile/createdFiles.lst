@@ -1,0 +1,6 @@
+servlet\PruebServlet.class
+test\OperacionesBD2.class
+beans\Usuarios.class
+beans\Vinos.class
+connection\DBConnectionVino.class
+beans\Compra.class
