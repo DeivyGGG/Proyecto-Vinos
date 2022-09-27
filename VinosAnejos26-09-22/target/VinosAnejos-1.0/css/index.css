@@ -1,0 +1,10 @@
+
+body {
+    background: #ffffee url(fondo.jpg) repeat-x;
+}
+body.img-responsive{
+    width: 70px;
+    height: 93px;
+
+}
+
